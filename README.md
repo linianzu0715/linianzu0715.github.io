@@ -1,8 +1,14 @@
 ## Welcome to Linianzu's GitHub Pages
 
+Here you can find my personal information, project experience, work experience and personal interests.
+
+Hopes you can get some new idea from it.
+
+<!--这些是注释文本，不会显示
 You can use the [editor on GitHub](https://github.com/linianzu0715/linianzu0715.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-->
 
 ### Markdown
 
