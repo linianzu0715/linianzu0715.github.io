@@ -2,7 +2,7 @@
 
 Here you can find my personal information, project experience, work experience and personal interests.
 
-Hopes you can get some new idea from it.
+Hopes you can get some new ideas from it.
 
 <!--这些是注释文本，不会显示
 You can use the [editor on GitHub](https://github.com/linianzu0715/linianzu0715.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -10,7 +10,14 @@ You can use the [editor on GitHub](https://github.com/linianzu0715/linianzu0715.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 -->
 
-### Markdown
+### Menu
+
+1. Education Background
+2. Work Experiences
+3. Project Experiences
+4. BB
+
+<!--这些是注释文本，不会显示
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -33,6 +40,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+-->
 
 ### Jekyll Themes
 
