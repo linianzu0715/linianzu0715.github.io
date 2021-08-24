@@ -17,6 +17,30 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 3. Project Experiences
 4. BB
 
+
+
+### Education Background
+
+| Period     | University                                       | Major professional                                           | Title    |
+| ---------- | ------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 2015～2019 | Beijing University of Post and Telecommunication | Telecommunication  Engineering and Management（Joint training plan） | Bachelor |
+| 2015～2019 | Queen Mary University of London                  | Telecommunication  Engineering and Management（Joint training plan） | Bachelor |
+| 2019~2021  | Edinburgh University                             | Computer Science                                             | Master   |
+
+
+
+### Work Experience
+
+| Period | Company | Group | Title |
+| ------ | ------- | ----- | ----- |
+|        |         |       |       |
+|        |         |       |       |
+|        |         |       |       |
+
+
+
+
+
 <!--这些是注释文本，不会显示
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -41,7 +65,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
--->
+
 
 ### Jekyll Themes
 
@@ -50,3 +74,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+-->
