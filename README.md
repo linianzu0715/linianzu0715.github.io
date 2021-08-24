@@ -45,7 +45,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | ------ | -------------------- | ------------------ | ---------------------------- | ---- |
 | 2020   | Edinburgh University | Personal           | Synaptic protein gene search |      |
 | 2021   | Meituan              | Cooperate          | Group Meal                   |      |
-|        |                      |                    |                              |      |
 
 <!--这些是注释文本，不会显示
 
