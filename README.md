@@ -15,7 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 1. Education Background
 2. Work Experiences
 3. Project Experiences
-4. BB
+4. One more thing
 
 
 
@@ -31,15 +31,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Work Experience
 
-| Period     | Company  | Group              | Title                            |
-| ---------- | -------- | ------------------ | -------------------------------- |
-| 2019～2019 | Oracle   | Beijing R&D Center | Software R&D Intern              |
-| 2020～2020 | Analysys | Analysys Ark       | Big Data R&D Intern              |
-| 2021～now  | Meituan  | Daojia BGBU        | SDE（Software Develop Engineer） |
+| Period     | Company  | Group              | Title                     |
+| ---------- | -------- | ------------------ | ------------------------- |
+| 2019～2019 | Oracle   | Beijing R&D Center | Software R&D Intern       |
+| 2020～2020 | Analysys | Analysys Ark       | Big Data R&D Intern       |
+| 2021～now  | Meituan  | Daojia BGBU        | Software Develop Engineer |
 
 
 
+### Project Experience
 
+| Period | University/Company   | Personal/Cooperate | Project                      | Link |
+| ------ | -------------------- | ------------------ | ---------------------------- | ---- |
+| 2020   | Edinburgh University | Personal           | Synaptic protein gene search |      |
+| 2021   | Meituan              | Cooperate          | Group Meal                   |      |
+|        |                      |                    |                              |      |
 
 <!--这些是注释文本，不会显示
 
