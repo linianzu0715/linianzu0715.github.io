@@ -25,17 +25,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | ---------- | ------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 2015～2019 | Beijing University of Post and Telecommunication | Telecommunication  Engineering and Management（Joint training plan） | Bachelor |
 | 2015～2019 | Queen Mary University of London                  | Telecommunication  Engineering and Management（Joint training plan） | Bachelor |
-| 2019~2021  | Edinburgh University                             | Computer Science                                             | Master   |
+| 2019～2021 | Edinburgh University                             | Computer Science                                             | Master   |
 
 
 
 ### Work Experience
 
-| Period | Company | Group | Title |
-| ------ | ------- | ----- | ----- |
-|        |         |       |       |
-|        |         |       |       |
-|        |         |       |       |
+| Period     | Company  | Group              | Title                            |
+| ---------- | -------- | ------------------ | -------------------------------- |
+| 2019～2019 | Oracle   | Beijing R&D Center | Software R&D Intern              |
+| 2020～2020 | Analysys | Analysys Ark       | Big Data R&D Intern              |
+| 2021～now  | Meituan  | Daojia BGBU        | SDE（Software Develop Engineer） |
 
 
 
