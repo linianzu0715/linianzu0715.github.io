@@ -1,4 +1,4 @@
-## Welcome to Linianzu's GitHub Pages
+## Welcome to Linianzu's Persnal Page
 
 Here you can find my personal information, project experience, work experience and personal interests.
 
